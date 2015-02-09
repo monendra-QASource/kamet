@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="36243" started-at="2015-02-09T11:19:48Z" finished-at="2015-02-09T11:20:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="36243" started-at="2015-02-09T11:19:48Z" finished-at="2015-02-09T11:20:24Z">
+      <class name="Test_Scripts.Payment_CurrntLoan">
+        <test-method status="PASS" signature="set()[pri:0, instance:Test_Scripts.Payment_CurrntLoan@725bef66]" name="set" is-config="true" duration-ms="19606" started-at="2015-02-09T16:49:48Z" finished-at="2015-02-09T16:50:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- set -->
+        <test-method status="PASS" signature="Logintest()[pri:0, instance:Test_Scripts.Payment_CurrntLoan@725bef66]" name="Logintest" duration-ms="16467" started-at="2015-02-09T16:50:08Z" finished-at="2015-02-09T16:50:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logintest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Test_Scripts.Payment_CurrntLoan@725bef66]" name="tearDown" is-config="true" duration-ms="160" started-at="2015-02-09T16:50:24Z" finished-at="2015-02-09T16:50:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Test_Scripts.Payment_CurrntLoan -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
