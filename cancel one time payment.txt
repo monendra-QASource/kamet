@@ -1,3 +1,0 @@
-cancel one time payment:
-Acct: 127292 : 3rd nov(ACH deactivated)
-
